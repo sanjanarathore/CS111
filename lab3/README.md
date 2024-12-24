@@ -60,6 +60,7 @@ To measure the speedup of version 2 in comparison to version 1 and the base vers
 | Trial 2 | 0.84s     | 2.85s   | 0.16s   |
 | Trial 3 | 1.18s     | 2.27s   | 0.26s   |
 | Average | 1.07s     | 2.55s   | 0.23s   |
+
 In comparison to the base version, version 2 is `4.65` times faster.
 In comparison to version 1, version 2 is `11.1` times faster.
 
