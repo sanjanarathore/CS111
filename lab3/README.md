@@ -1,5 +1,5 @@
 # Hash Hash Hash
-In this lab, the goal is to fix an implementation of a hash table for multithreaded enviorments. Version 1 (`hash_table_v1`) employs a global mutex to ensure thread safety, but significantly degrades performance as a result. Version 2 (hash_table_v2) improves the performance of version 1 by introducing locking at the entry-level of a hash table.
+In this lab, the goal is to fix an implementation of a hash table for multithreaded enviorments. Version 1 (`hash_table_v1`) employs a global mutex to ensure thread safety, but significantly degrades performance as a result. Version 2 (`hash_table_v2`) improves the performance of version 1 by introducing locking at the entry-level of a hash table.
 
 ## Building
 ```shell
