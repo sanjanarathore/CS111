@@ -1,6 +1,6 @@
 ## Pipe Up
 
-This program takes replicates the behavior of a pipe operator. It takesexecutable names as command line arguments and executes each executable in a new process while handling I/O rediection and subsequent errors.
+This program takes replicates the behavior of a pipe operator. It takes executable names as command line arguments and executes each executable in a new process while handling I/O rediection and subsequent errors.
 
 ## Building
 To build, run the following command:
